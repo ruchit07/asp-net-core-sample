@@ -1,17 +1,1 @@
-## .NET Core 3.1 skeleton project
-
-## Prerequisite
-
-* Install [.NET Core 3.1 SDK](https://dotnet.microsoft.com/download/dotnet-core/3.1)
-* Install [Visual Studio 2019](https://visualstudio.microsoft.com/downloads/)
-
-## Features
-* EF core 3.1
-* JWT Authentication
-* Global error handling
-* Global filter for model validation
-* Well structured API, Data, Service project
-
-## Licenses
-
-[Apache 2](http://www.apache.org/licenses/LICENSE-2.0) licenses for code.
+.NET Core 3.1 skeleton project
